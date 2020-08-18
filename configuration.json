@@ -1,0 +1,41 @@
+{
+  "loggerType": "localOnly",
+  "dataBoolSettings": {
+    "dataTrueValue": "Yes",
+    "dataFalseValue": "No"
+  },
+  "dataGeneral": {
+    "dataRowDelimiter": ";",
+    "dataColumnDelimiter": "|"
+  },
+  "logicBoolSettings": {
+    "logicTrueValue": "TRUE",
+    "logicFalseValue": "FALSE"
+  },
+  "logicGeneral": {
+    "logicErrorValue": "ERROR"
+  },
+  "dateFormat": "yyyy-MM-dd",
+  "mainTrackerPath": "C:\\Users\\Julia\\Desktop\\Dawid - Kryon Botcamp\\Main Beds Tracker - stored.xlsx",
+  "mainTrackerWorksheetName": "Tracker",
+  "illnessDataPath": "C:\\Users\\Julia\\Desktop\\Dawid - Kryon Botcamp\\Illness data.xlsx",
+  "illnessWorksheetName": "Illness_Data",
+  "medicinesWorksheetName": "Medicines_Data",
+  "equipmentWorksheetName": "Equipment_Data",
+  "medicinesColumnName": "MEDICINES_REQUIRED",
+  "equipmentColumnName": "EQUIPMENT_USED",
+  "useCustomExcelLoader": "TRUE",
+  "notApplicableString": "N/A",
+  "useMasking": "FALSE",
+  "multiValueDisplaySeparator": "|",
+  "multiValueStoreSeparator": ",",
+  "updatePatientsDataColumnsShowed": {
+    "count": 4,
+    "items": [
+      "DEPARTMENT_ID",
+      "ROOM_ID",
+      "BED_ID",
+      "PATIENT_ID"
+    ]    
+  }
+}
